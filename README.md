@@ -1,1 +1,3 @@
-# scomp-config
+# This is my config
+
+- nvim
